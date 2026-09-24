@@ -1,0 +1,6 @@
+{
+  "name": "Stalnox Stainless Steel Flanges & Pipe Fittings",
+  "description": "Precision manufacturer and global supplier of ASME B16.5, DIN EN 1092-1 stainless steel flanges, butt-weld fittings, and forged piping components in 304L, 316L, and Duplex alloys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

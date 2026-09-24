@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+  h1, h2, h3, .font-display {
+    font-family: 'Cabinet Grotesk', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    letter-spacing: -0.02em;
+  }
+  .font-mono-tabular {
+    font-family: 'JetBrains Mono', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Precision industrial steel grid accent */
+.steel-grid-bg {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.steel-mesh-gradient {
+  background: radial-gradient(ellipse 80% 50% at 50% -20%, rgba(56, 189, 248, 0.12), transparent);
+}
